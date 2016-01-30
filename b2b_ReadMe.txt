@@ -1,6 +1,6 @@
 	By B2B you can send sales tax at the moment you sell an item.
 	
-	format of B2B(B2B.conf file skeloton of this file is already given when you download b2b):
+	format of B2B(B2B.conf file skeleton of this file is already given when you download b2b):
 	cust_id:030XX
 	out_port:103XX
 	bank_name(npz|hawksbank):
